@@ -1,0 +1,23 @@
+{
+    "name": "abeat/projeto-php",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Abeat\\ProjetoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Beatriz Morais",
+            "email": "anabeatrizdsmorais@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.2.0"
+    }
+}
