@@ -1,0 +1,4 @@
+Search
+ [x] Get address fromzipcode default usage with data set "Endereço Rua Silvino Santos"
+ [x] Get address fromzipcode default usage with data set "Endereço Qualquer São Paulo"
+

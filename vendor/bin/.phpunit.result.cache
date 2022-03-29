@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SearchTest::testGetAddressFromzipcodeDefaultUsage":4},"times":{"SearchTest::testGetAddressFromzipcodeDefaultUsage":0.057,"SearchTest::testGetAddressFromzipcodeDefaultUsage with data set \"Endere\u00e7o Rua Silvino Santos\"":0.668,"SearchTest::testGetAddressFromzipcodeDefaultUsage with data set \"Endere\u00e7o Qualquer S\u00e3o Paulo\"":0.696}}
